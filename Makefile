@@ -2,7 +2,7 @@
 #
 #
 
-snow2=/home/seth/src/seth-svn/snow2-client/snow2-client-chicken.scm
+snow2=../snow2-client/snow2-client-chicken.scm
 
 
 all: base64
