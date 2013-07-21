@@ -2,7 +2,8 @@
 #
 #
 
-snow2=../snow2-client/snow2-client-chicken.scm
+# snow2=../snow2-client/snow2-client-chicken.scm
+snow2=../snow2-client/snow2-client-chibi.scm
 
 
 all: base64
