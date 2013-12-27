@@ -7,5 +7,5 @@
         (seth base64))
 
 
-(display (base64-encode~ (string->utf8 "testing")))
+(display (encode (string->utf8 "testing")))
 (newline)
