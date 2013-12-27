@@ -2,8 +2,8 @@
 #
 #
 
-# snow2=../snow2-client/snow2-client-chicken.scm
-snow2=../snow2-client/snow2-client-chibi.scm
+# snow2=CHIBI_MODULE_PATH=../snow2-client/ ../snow2-client/snow2-client-chibi.scm
+snow2=/usr/local/bin/snow2
 
 
 all: base64
