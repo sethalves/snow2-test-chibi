@@ -3,7 +3,7 @@
 (import (scheme base)
         (scheme write)
         (chibi io)
-        (seth bytevector)
+        (snow bytevector)
         (seth base64))
 
 
